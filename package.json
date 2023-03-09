@@ -1,0 +1,23 @@
+{
+  "name": "balloongame",
+  "version": "1.0.0",
+  "description": "想教6岁的儿子学编程，但打字速度太慢，我当年是初中接触电脑，只会玩游戏，比如红警，帝国时代，高中学校机房玩打字游戏练的打字。知道打字游戏能高效提高打字速度，故写了这个打字游戏，有同样需要家长，可以直接拿去玩！共勉。",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "balloon",
+    "game",
+    "typing"
+  ],
+  "author": "CalcYu",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^5.0.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify": "^3.0.2"
+  }
+}
